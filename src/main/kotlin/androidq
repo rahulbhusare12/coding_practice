@@ -1,0 +1,232 @@
+Basics of Kotlin
+
+Scope Function
+
+Uses and type of scope function
+
+Diff between Let & Run and Apply & Also
+
+Some practical examples of scope function
+
+Sealed Classes and Interfaces
+
+What are sealed class with example
+
+What is sealed interface with example
+
+Use cases
+
+Functions
+
+What are Inline Functions and where they are helpful
+
+What are Extensions Functions
+
+What are Lambda Functions
+
+What are Higher Order Functions, give example
+
+Data Classes
+
+What is Data Class
+
+Difference Between Class and Data Class with example
+
+Some Other General Questions
+
+What is Map function (Collections)
+
+Difference bet singleton object and companion object
+
+What is Null safe operator
+
+What is Elvis Operator
+
+Design Patterns
+
+What are singleton Functions
+
+Difference Between companion object and Object
+
+Name Design Patterns with Examples
+
+What is Factory Pattern
+
+What is Builder Pattern
+
+Coroutines
+
+Coroutine Builder and their differences (launch/Async)
+
+Diff bet withContext and runBlocking
+
+How to handle Exception in coroutine
+
+What if one coroutine failed from child coroutines
+
+what is SuperVisor coroutine and runCatching
+
+Suspended function
+
+How to call Async API’s and how to get multiple api response in single response
+
+What is Dispatcher and its type
+
+In which thread Defualt dispatcher run?
+
+
+Basics of Android
+
+Activity and Fragment
+
+Activity and Fragment Lifecycles
+
+What happens when app goes to background
+
+What is onConfigurationChange, when is it triggered
+
+Android Architecture
+
+What is the difference between MVC, MVVM and MVI architecture
+
+What is usability of view model
+
+View Model declaration statement
+
+What is Clean Architecture
+
+Kotlin Flows
+
+Why do we use Flows
+
+What is Live Data
+
+What are StateFlow and SharedFlow
+
+Difference between Hot flow and cold flow
+
+Operators in Flow like filter, map, etc
+
+Android UI
+
+Why do we Use Jetpack Compose
+
+Difference between Data Binding and View Binding
+
+Constraint Layout vs Relative Layout
+
+Recycler View and its internal workings
+
+View vs View Group
+
+Material Design 3
+
+Common Questions
+
+Build type
+
+Flavored Apks
+
+Work Manager
+
+Foreground, Intent and Background services
+
+SOLID Principles
+
+OOPS Concepts
+
+Internal workings of View Model
+
+ANRs
+
+Android Security
+
+SSL Certificate
+
+What is SSL
+
+What is SSL Pinning
+
+How wo we Verify SSL Certificate
+
+What is SSL Handshake
+
+Compiler/Decompiler
+
+What is Progaurd and how to write progaurd rules?
+
+What is R8  and how it is differ from progaurd?
+
+use of obfuscation, progaurd, minify, shrinkage
+
+Data Encryption
+
+Symytric and Asymetric Encryption
+
+Public and Private Key
+
+SHA256 and AES Encryptions
+
+Protected Shared Preference
+
+Key Store
+
+Permissions and content provider
+
+Services Permission Handling
+
+Content Provider
+
+Internal/External Storage
+
+API Management
+
+API Validation
+
+Scope Management
+
+OAuth 2.0
+
+API failure management and DOS attack
+
+
+
+Android Database and API handling
+
+Rooms Database
+
+DAO
+
+CRUD
+
+@Entity, @PrimaryKey, @ColumnInfo
+
+Data Migration
+
+Retrofit
+
+What is Retrofit
+
+@GET, @POST, @PUT, @DELETE
+
+How to handle parameters
+
+How to Implement Authentication in Retrofit
+
+How to Handle Errors in Retrofit
+
+Ktor (KMM)
+
+
+
+Android Jetpack Compose
+
+Remember and Remember Saveable
+
+Column, Row, Lazy Column/Row
+
+@Preview, @Composable
+
+How to observe State/Shared Flow variable in JP UI
+
+NavController
