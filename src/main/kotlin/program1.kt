@@ -1,36 +1,36 @@
 fun main() {
-    //write a function which will take list of numbers, remove odd numbers and then sort it in descending order
+    //1.write a function which will take list of numbers, remove odd numbers and then sort it in descending order
     println("Odd Number")
     println(filterOdd(listOf(2, 3, 33, 55, 2, 555, 22)))
     println("******************************************")
 
-    //.Write a function to reverse a given string without using any predefined methods.
+    //2.Write a function to reverse a given string without using any predefined methods.
 
     println("\nReverse String")
     println(reverseString("rahul"))
     println("******************************************")
 
-    //Write a function that counts the number of vowels and consonants in a given string
+    //3.Write a function that counts the number of vowels and consonants in a given string
 
     println("\nFind vowels")
     val (vowels, consonants) = findVowels("rahul bhusare123")
     println("vowels=$vowels  consonts=$consonants")
     println("******************************************")
 
-    //Write a function that counts and prints the occurrences of each character in a given string
+    //4.Write a function that counts and prints the occurrences of each character in a given string
 
     println("\nChar Occurrence")
     println(charOccurrence("rahulbbaal"))
     println("******************************************")
 
-    //.Write a function to perform basic string compression using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3"
+    //5.Write a function to perform basic string compression using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3"
 
     println("\n Compress String")
     println(compressChar("aaabbdddaa"))
     println("******************************************")
 
 
-    //Write a program that reverses each word in a string while maintaining the original order of words. [ex. I love programing = I evol gnimargorp]
+    //6.Write a program that reverses each word in a string while maintaining the original order of words. [ex. I love programing = I evol gnimargorp]
     println("\n reverses word")
     println(reverseWords("I love programing"))
     println("******************************************")
